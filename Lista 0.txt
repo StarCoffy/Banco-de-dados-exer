@@ -1,0 +1,15 @@
+Exercicios Banco de dados
+
+lista 0
+
+1 - Selecione: nome, sobrenome, cidade e estado de todos os autores que não são da Califórnia.
+2 - Selecione todos os dados de todos os autores que vivem em uma cidade que começa com S.
+3 - Selecione o titulo, preço e tipo de todos os livros com preço entre 12 e 19.
+4 - Selecione todos os livros que faturaram menos de 10000 no ano.
+
+Os exercícios a seguir devem ser executados no banco "Pokedex"
+
+5 - Selecione o código da categoria "Flame".
+6 - Selecione todos os pokemons desta categoria de acordo com o código descoberto no exercício anterior.
+7 - Selecione todos os pokemons que tem altura maior que 2 metros e peso menor que 100kg.
+8 - Selecione todos os pokemons que não evoluem de nenhum outro.
