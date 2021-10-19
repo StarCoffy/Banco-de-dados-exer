@@ -1,0 +1,44 @@
+Lista 1
+
+0 - Descubra quantos dias se passaram desde o seu
+ nascimento até hoje.
+
+Pubs:
+
+1 - Selecione todos os livros que tem menos de 20caracteres em seu título.
+
+
+2 - Crie uma relação que mostra quantos livros começam com cada letra.
+
+Ex: 
+
+A - 2
+
+C - 1
+
+D - 6
+
+
+3 - Quantos livros foram publicados em cada ano.(use pubdate).(use uma função de manipulação de datas que está no slide, mas não foi comentada em aula).
+
+Ex:
+
+1991 - 7    
+
+2020 - 2
+
+4 - Quantos funcionarios de cada profissão, agrupe por JobId.
+
+Pokedex:
+
+0 - Ao cadastrar os tipos, foi cometido um erro, e alguns deles foram cadastrados com um espaço na frente. Crie um select que identifique quais são esse tipos.
+
+1 - Qual o peso do pokemon mais pesado?
+
+2 - Quantos pokemons tem menos de 10 Kg?
+3 - Qual a altura média dos pokemons da categoria
+ 860?
+4 - Qual a altura do pokemon mais baixo?
+5 - Qual o pokemon de maior IMC?
+6 - Qual o peso médio e a altura média de cada cate
+goria de pokemon?

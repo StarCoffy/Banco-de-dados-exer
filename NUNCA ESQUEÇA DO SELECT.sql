@@ -1,0 +1,1 @@
+select datediff(day,'20030316',getdate())
