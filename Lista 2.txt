@@ -1,4 +1,4 @@
-======================Lista 2=====================
+======================Lista 2======================
 
 1 - Aumente em 20% os preços dos livros que custam menos que $12.
 2 - Inclua o Job "Data Analist" com min_lvl 170 e max_lvl = 250
