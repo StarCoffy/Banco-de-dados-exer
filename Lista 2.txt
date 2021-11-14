@@ -1,0 +1,8 @@
+======================Lista 2=====================
+
+1 - Aumente em 20% os preços dos livros que custam menos que $12.
+2 - Inclua o Job "Data Analist" com min_lvl 170 e max_lvl = 250
+3 - Insira você mesmo na tabela Employee, com o código SNC10101M, associado ao cargo que acabou de inserir no exercício 6. Não específique uma editora nem uma data de contratação.
+4 - Reduza em 10% o preço dos livros das editoras que não são da california.
+5 - Exclua todos os Employees cujo ID começa com SN
+
